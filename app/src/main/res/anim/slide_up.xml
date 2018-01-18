@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- https://stackoverflow.com/questions/9305581/how-to-make-a-dialog-slide-from-bottom-to-middle-of-screen-in-android-->
+    <translate
+        android:duration="@android:integer/config_mediumAnimTime"
+        android:fromYDelta="100%"
+        android:interpolator="@android:anim/accelerate_interpolator"
+        android:toXDelta="0" />
+</set>

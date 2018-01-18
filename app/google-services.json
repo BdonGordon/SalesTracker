@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "74529825436",
+    "firebase_url": "https://salestracker-a6b2c.firebaseio.com",
+    "project_id": "salestracker-a6b2c",
+    "storage_bucket": "salestracker-a6b2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74529825436:android:fa11db85399561fb",
+        "android_client_info": {
+          "package_name": "com.brandon.codewater.tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74529825436-vcagbf4llrvj50dt7v537esrnd7a5ht2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brandon.codewater.tracker",
+            "certificate_hash": "66e1d39033c14d93648e9b0a46fcf659442be744"
+          }
+        },
+        {
+          "client_id": "74529825436-f3shn6sb90n9lr7cek3korgieb4a83oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGiRP9BoGzgDb99aQh_P_B5Qb_aRXvSYA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74529825436-f3shn6sb90n9lr7cek3korgieb4a83oc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
